@@ -121,10 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:eshwarra5@gmail.com"
+      url: "mailto:eshwarra5@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://eshwarra5.github.io"
+      url: "https://eshwarra5.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -136,7 +136,7 @@ author:
       # url: "https://github.com/eshwarra"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/eshwar_r_a"
+      url: "https://instagram.com/eshwar_r_a"
 
 # Site Footer
 footer:
