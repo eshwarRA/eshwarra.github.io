@@ -124,7 +124,7 @@ author:
       url: "mailto:eshwarra5@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://eshwarra5.github.io"
+      # url: "https://eshwarra5.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
