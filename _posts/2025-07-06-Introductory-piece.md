@@ -1,5 +1,6 @@
 ---
 title: "About Me and My Blog"
+excerpt: "An Introductory post—why the blog, the journey, and what I plan on doing"
 layout: single
 author_profile: true
 read_time: true
