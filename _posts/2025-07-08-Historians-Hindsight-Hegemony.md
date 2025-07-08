@@ -1,6 +1,6 @@
 ---
 title: "Stories Within History: Voice, Bias, and Perspective"
-excerpt: "All about how a historiography works—the "ideal history", and tracing the origins of the biases"
+excerpt: "All about how a historiography works—the 'ideal history', and tracing the origins of the biases"
 layout: single
 author_profile: true
 read_time: true
