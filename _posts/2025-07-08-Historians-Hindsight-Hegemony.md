@@ -1,6 +1,6 @@
 ---
 title: "Stories Within History: Voice, Bias, and Perspective"
-excerpt: "All about Indian Historiography—the 'ideal history', and tracing the origins of the biases"
+excerpt: "All about Indian Historiography—the 'ideal history', and tracing the origins of 'bias'"
 layout: single
 author_profile: true
 read_time: true
