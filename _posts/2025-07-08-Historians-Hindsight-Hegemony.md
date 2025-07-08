@@ -85,7 +85,8 @@ Decoloniality, too, is another aspect (I shall explain this in more detail in an
 
 There are a bunch of other subjects that need to be addressed in detail—Indian archaeology; the coterie of “eminent historians” who created their own elitist circles by citing each other’s works and thereby excluding anyone who didn’t subscribe to their views; a more detailed discussion on decoloniality; the Indian government and its neglect of history—all these are topics I wish to cover sometime in the future. 
 
-Nevertheless, I hope this very article was a good starter for you, the reader, to understand how Indian historiography works. 
+Nevertheless, I hope this very article was a good starter for you, the reader, to understand the nuances to historiography. 
+
 STAY TUNED for further articles, and THANK YOU for reading.
 
 Do leave a text or a comment if you liked my work—it would mean a lot :)
