@@ -11,7 +11,6 @@ date: 2025-07-06
 categories: blog personal
 ---
 # Why Am I writing on this Topic
-
 This might come off as pretty random of a piece, but much rather— it is of a song I came across during my research for a longer blog piece on the Ranis of Attingal: something coming soon (This is certainly not an excuse to cover for me not having uploaded anything for a month).
 
    As a person who has had a fairly recent fling—if I may call it that—for listening to Carnatic music, this was an audio link I randomly found yesterday—something that got me somewhat nostalgically hooked while listening—on a random website during my research. 
