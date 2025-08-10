@@ -17,7 +17,10 @@ As a person who has had a fairly recent fling—if I may call it that—for his 
 
 The title of it being, “Vanchi Bhoomi” — The Land of the Vanchi:
 
-![](/assets/audio/Vanchi_bhoomi.mp3)
+<audio controls>
+  <source src="/assets/audio/Vanchi_bhoomi.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 A simple search for an English translation of this composition exposed me to an interesting set of historical documents — mere puzzle pieces I started digging into, only to find more puzzle pieces. My research included everything from contemporary research papers to archive.org documents from the 1920s. This shall be a fairly concise version of all that research — an attempt to put those puzzle pieces I found all together:
 
