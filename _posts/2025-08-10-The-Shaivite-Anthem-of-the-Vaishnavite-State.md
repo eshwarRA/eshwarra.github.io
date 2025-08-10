@@ -1,6 +1,6 @@
 ---
 title: "The Vaisnavite State's Shaivite Anthem"
-excerpt: "Travancore, its Anthem, and the Cheras"
+excerpt: "Travancore and the story of its Anthem"
 layout: single
 author_profile: true
 read_time: true
