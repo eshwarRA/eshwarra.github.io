@@ -10,13 +10,12 @@ related: true
 date: 2025-07-06
 categories: blog personal
 ---
-# Why Am I writing on this Topic
+
 This might come off as pretty random of a piece, but much rather— it is of a song I came across during my research for a longer blog piece on the Ranis of Attingal: something coming soon (This is certainly not an excuse to cover for me not having uploaded anything for a month).
 
    As a person who has had a fairly recent fling—if I may call it that—for listening to Carnatic music, this was an audio link I randomly found yesterday—something that got me somewhat nostalgically hooked while listening—on a random website during my research. 
 
 The title of it being, “Vanchi Bhoomi” — The Land of the Vanchi:
-
 <audio controls>
   <source src="/assets/audio/Vanchi_bhoomi.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
@@ -61,7 +60,7 @@ Sundara Murti Nayanar — one of the 63 revered Tamil Shaiva saints — unwaveri
 3. What symbols of Chera heritage did the Travancore Royal family flaunt other than the anthem itself? — for this wouldn't be the sole symbol of legitimising Travancore’s heritage from the Cheras
 4. The entire story of the consolidation of Travancore — Marthanda Varma’s story: what were his actions to legitimise his kingdom to be Chera? —actions that would come to have ramifications on Travancore rulers centuries after him, hence leading to the anthem’s commissioning
 
-   That's pretty much where this piece ends. It all started with tracing the story of a song that has sort of become folk at this point—ultimately leading me to the story of the Cheras, the Ays, and Marthanda Varma, his campaigns, and his strategy for political legitimisation. A follow-up is certainly called for—it is something I will get back to when I have the necessary information.
+That's pretty much where this piece ends. It all started with tracing the story of a song that has sort of become folk at this point—ultimately leading me to the story of the Cheras, the Ays, and Marthanda Varma, his campaigns, and his strategy for political legitimisation. A follow-up is certainly called for—it is something I will get back to when I have the necessary information.
 
 Hope you liked this one :)
 
