@@ -35,11 +35,11 @@ Besides all this, during the 1930s—about 170 years after Marthandavarma—came
 
 The great anthem would come to become the formal closing piece for the Travancore Radio for another 20 years, being sung in all royal gatherings and ceremonies thereafter. 
 
-![Anthem Poster](/assets/images/'sddefault (1).jpeg')
+![Anthem Poster](/assets/images/poster.jpeg)
 
 The anthem would soon die, with the consolidation of the “Hindoo Princely State of Travancore” into the Indian Union, solely leaving a piece for adaptation by Carnatic singers and a few Malayali cinema. But the question still persists — why did the state with a principal Vaishnavite deity have a Shivite anthem, dedicated to a deity and a temple much beyond the boundaries of the state itself? Well, unfortunately, the answer is not very comprehensive or satisfactory.
 
-![Map of Travancore](/assets/images/'Trivandrum (1) (1).jpeg')
+![Map of Travancore](/assets/images/Triv.jpeg)
 
 One additional piece of information that links Travancore to the Cheras is the title held by the Travancore king himself. The format went as follows for their full regnal name:
 > "Sree Padmanabhadasa Vanchi Paala [Personal Name] Varma Kulasekhara Perumal"
