@@ -29,7 +29,7 @@ Where Hinduism would certainly differ in its core from other “religions” is 
 
 Hinduism, however, is different: for it does not have any set of starting axioms, i.e. there is nothing that defines who is a Hindu. You can be a polytheist, a monotheist, or an atheist or a combination of any of these, or even have an entirely new belief: all this and still be a Hindu. 
 
-The immediate question then would be to ask “What are the boundary conditions?” (the quintessential engineer’s question), i.e. what brings unity in all of your beliefs to call it one unit—”Hinduism”. I will answer this vaguely right now, but just stick with me till the end for you will get a much clearer picture by the end!
+The immediate question then would be to ask “What are the boundary conditions?” (the quintessential engineer’s question), i.e. what brings unity in all of your beliefs to call it one unit—”Hinduism”. I will answer this vaguely right now, but just stick with me till the end for you will get a much clearer picture!
 
 What brings Hinduism together is all about the questions it asks, the processes of inquiry, idioms, all the texts bring together in order to allow for a framework of conversation, various rituals and festivals changed among a multitude of other things: it allows for plurality, scepticism, preference for liberty and openness (We shall come back to this idea). 
 
