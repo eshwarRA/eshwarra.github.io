@@ -7,7 +7,7 @@ read_time: true
 comments: true
 share: true
 related: true
-date: 2025-07-06
+date: 2025-08-10
 categories: blog personal
 ---
 
