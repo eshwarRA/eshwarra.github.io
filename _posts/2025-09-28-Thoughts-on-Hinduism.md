@@ -110,4 +110,4 @@ This is where the political debate starts—of what one would call the “pure�
 
 All this is what the next blog will dwell into: how hinduism was shaped by the Islamic Invasions, and colonization subsequently: how this entire period lead to the fructification—in a lot of ways—of Hindutva as it is seen now: a politico-religious entity.
 
-
+Do leave me a text if you liked my blog! :)
