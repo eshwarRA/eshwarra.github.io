@@ -70,6 +70,15 @@ The infamous Gayatri Mantra—one of the most popular Hindu Mantras—was compos
 
 Further, our history textbooks tell us of how “Indira and Agni were ancient Vedic gods. Vishnu and Shiva are later gods”. This is a mischievous attempt, for the deity “Vishnu” appears in the Rigveda, mentioned 93 times across various hymns. The statement is rather vague, leading you to misconstrue that Vishnu and Shiva did not exist in early Vedic times—they certainly did. Maybe they were not as significant as Agni, or Indra—but they did exist.
 
+## The Norm of the Time
+Notwithstanding how long before the Vedas did Hinduism, and Hindu gods exist—it is safe to acknowledge the presence of several other civilizational faith systems that existed across the world: Taoism, the Ancient Egyptian, Mesopotamian, and Greek religions, among others.
+
+For many of these faith systems preceded this form of codified Vedic religion, it is completely possible that there was some form of confluence of ideas between these different civilisations. Much of this confluence gives us a similarity we see in ritual and the deities worshipped across these different civilisations.
+
+For example, take the Egyptian deity Anubis: associated with the colour black, dog-faced, and known as the deity for funerary rites, also the protector of the graves, and the guide to the underworld. Hinduism has a deity of a similar kind, too: Bhairava. Bhairava’s vahana (the animal associated with the deity) is a dog; Also associated with the colour black. Bhairava is a cremation ground deity, worshipped as the kshetrapala (the guardian of the area).
+
+These similarities are not isolated to any one Hindu deity—for it is evident that there was some form of synchretization where deities/rituals/several aspects were borrowed from one culture to another. Hence it is completely possible for Hinduism to have borrowed deities from the outside, or even for similar deities to have parallely come about in different cultures for metaphysical reasons we do not understand.
+
 ## Boundary Conditions
 My broad thesis for all I have said until now is how Hinduism, at its core, respects pluralism. To put it into perspective, let me reiterate it as follows—the plural nature of Hinduism is reflected at 2 fronts:
 1. At its core: Wherein the formation of the vedas itself were a plural exercise of these different tribes—who ultimately got their gods all together into one piece of literature. Hence, it all starts of with the fundamental text itself respecting all different practices and ideas across the different tribes, and their different gods: the epitome of plural values.
